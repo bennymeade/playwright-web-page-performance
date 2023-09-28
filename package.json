@@ -1,0 +1,13 @@
+{
+  "name": "playwright-web-page-performance",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/bennymeade/playwright-web-page-performance.git",
+  "author": "bennymeade <brendan_meade@yahoo.co.uk>",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.38.1",
+    "@types/node": "^20.7.1"
+  },
+  "scripts": {}
+}
